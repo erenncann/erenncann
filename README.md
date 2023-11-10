@@ -1,8 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Eren</h1>
 - 🌱 Şu anda **C# , Python , SQL** öğreniyorum
-
-<h3 align="left">Benimle iletişime geç:</h3 >
-<p align="left">
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
